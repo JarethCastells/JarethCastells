@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alan%20Jareth%20Castells%Montalvo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mecatr%C3%B3nica%20%E2%9A%99%EF%B8%8F%20%7C%20Inteligencia%20Artificial%20%F0%9F%A7%A0%20%7C%20Tecnolog%C3%ADa%20%F0%9F%9A%80&descAlignY=58&descSize=20&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alan%20Jareth%20Castells%20Montalvo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mecatr%C3%B3nica%20%E2%9A%99%EF%B8%8F%20%7C%20Inteligencia%20Artificial%20%F0%9F%A7%A0%20%7C%20Tecnolog%C3%ADa%20%F0%9F%9A%80&descAlignY=58&descSize=20&descColor=94a3b8" width="100%"/>
 
 <div align="center">
 
