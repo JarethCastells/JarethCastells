@@ -37,20 +37,22 @@ Soy un apasionado por la convergencia entre el **mundo físico y el digital**. M
 
   <br/>
 
-  [![Caroline Kingsbury - Kissing Someone Else](https://i.ytimg.com/vi/EbAWUP0JpaQ/hqdefault.jpg)](https://www.youtube.com/watch?v=EbAWUP0JpaQ)
+  <video src="https://github.com/JarethCastells/JarethCastells/raw/main/kissing.mp4" controls width="600" style="border-radius:12px">
+    Tu navegador no soporta el tag video.
+  </video>
 
   <br/>
 
   <a href="https://www.youtube.com/watch?v=EbAWUP0JpaQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-▶%20Reproducir%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Play on YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-▶%20Ver%20en%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Play on YouTube" />
   </a>
   &nbsp;
   <a href="https://open.spotify.com/search/Caroline%20Kingsbury%20Kissing%20Someone%20Else" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Escuchar%20Canci%C3%B3n-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
   </a>
 
   <br/><br/>
-  <sub><i>Haz clic en la portada o en los botones para reproducir el video en YouTube o escuchar en Spotify</i></sub>
+  <sub><i>▶ Usa el reproductor o haz clic en los botones para escuchar en YouTube / Spotify</i></sub>
 
 </div>
 
@@ -62,18 +64,24 @@ Soy un apasionado por la convergencia entre el **mundo físico y el digital**. M
 
   #### 🤖 Mecatrónica & Sistemas Embebidos
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,cpp,c,linux" alt="Mechatronics Stack" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" alt="Mechatronics Stack" />
   </a>
 
   #### 🧠 Inteligencia Artificial & Datos
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,matlab" alt="AI Stack" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn" alt="AI Stack" />
   </a>
+  <br/>
+  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/Ollama-0F0F0F?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 
   #### 💻 Software & Herramientas de Desarrollo
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,bash,markdown" alt="Dev Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,markdown" alt="Dev Tools" />
   </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Antigravity-IDE-38BDF8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Amazon%20Kiro-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900" alt="Kiro" />
 
 </div>
 
