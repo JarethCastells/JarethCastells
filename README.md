@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ⚡ Hola, soy Alan Jareth Castells Montalvo 👋
+  #  Hola, soy Alan Jareth Castells Montalvo 
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Entusiasta+de+la+Tecnolog%C3%ADa+%F0%9F%9A%80;Ingenier%C3%ADa+Mecatr%C3%B3nica+%26+Rob%C3%B3tica+%E2%9A%99%EF%B8%8F;Inteligencia+Artificial+%26+Computer+Vision+%F0%9F%A7%A0;Automatizaci%C3%B3n+y+Desarrollo+de+Software+%F0%9F%92%BB" alt="Typing SVG" />
@@ -33,16 +33,22 @@ Soy un apasionado por la convergencia entre el **mundo físico y el digital**. M
 
 <div align="center">
 
-  **Caroline Kingsbury — Kissing Someone Else**
+  ### 🎵 Escuchando ahora en Spotify
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31swmp2ken2gzh5b2s2wcjvvyi74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://open.spotify.com/user/31swmp2ken2gzh5b2s2wcjvvyi74)
 
   <br/>
 
-  <video src="https://github.com/JarethCastells/JarethCastells/raw/main/kissing.mp4" controls width="600" style="border-radius:12px">
-    Tu navegador no soporta el tag video.
-  </video>
+  **🎵 Caroline Kingsbury — Kissing Someone Else**
 
   <br/>
-  <sub><i>🎵 Caroline Kingsbury — Kissing Someone Else</i></sub>
+
+  <a href="https://www.youtube.com/watch?v=EbAWUP0JpaQ" target="_blank">
+    <img src="https://img.youtube.com/vi/EbAWUP0JpaQ/maxresdefault.jpg" width="600" alt="Caroline Kingsbury - Kissing Someone Else · Click to play" />
+  </a>
+
+  <br/>
+  <sub><i>▶ Haz clic en la imagen para reproducir el video</i></sub>
 
 </div>
 
