@@ -1,9 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alan%20Jareth%20Castells&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mecatr%C3%B3nica%20%E2%9A%99%EF%B8%8F%20%7C%20Inteligencia%20Artificial%20%F0%9F%A7%A0%20%7C%20Tecnolog%C3%ADa%20%F0%9F%9A%80&descAlignY=58&descSize=20&descColor=94a3b8" width="100%"/>
+
 <div align="center">
 
-  #  Hola, soy Alan Jareth Castells Montalvo 
-  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Entusiasta+de+la+Tecnolog%C3%ADa+%F0%9F%9A%80;Ingenier%C3%ADa+Mecatr%C3%B3nica+%26+Rob%C3%B3tica+%E2%9A%99%EF%B8%8F;Inteligencia+Artificial+%26+Computer+Vision+%F0%9F%A7%A0;Automatizaci%C3%B3n+y+Desarrollo+de+Software+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Entusiasta+de+la+Tecnolog%C3%ADa+%F0%9F%9A%80;Ingenier%C3%ADa+Mecatr%C3%B3nica+%26+Rob%C3%B3tica+%E2%9A%99%EF%B8%8F;Inteligencia+Artificial+%26+Computer+Vision+%F0%9F%A7%A0;Automatizaci%C3%B3n+y+Desarrollo+de+Software+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -11,44 +11,45 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Jareth_Castells-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alan-jareth-castells-montalvo-9956a31b8/)
   [![GitHub followers](https://img.shields.io/github/followers/JarethCastells?label=Followers&style=for-the-badge&color=2563EB&logo=github)](https://github.com/JarethCastells)
   [![Profile Views](https://komarev.com/ghpvc/?username=JarethCastells&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/JarethCastells)
-  [![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:montalvo210902@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-montalvo210902%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:montalvo210902@gmail.com)
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ### 🚀 Sobre Mí
 
-Soy un apasionado por la convergencia entre el **mundo físico y el digital**. Me especializo en la intersección de la **Mecatrónica**, la **Inteligencia Artificial** y el **Desarrollo Tecnológico**, diseñando soluciones integrales que van desde hardware embebido y robótica hasta modelos inteligentes y visión computacional.
+Soy un apasionado por la convergencia entre el **mundo físico y el digital**. Me especializo en la intersección de la **Mecatrónica**, la **Inteligencia Artificial** y el **Desarrollo Tecnológico**, diseñando soluciones que van desde hardware embebido y robótica hasta modelos inteligentes y visión computacional.
 
-- 🤖 **Enfoque Principal**: Robótica, Automatización, Sistemas Embebidos e Inteligencia Artificial.
-- 🔬 **Explorando & Desarrollando**: Computer Vision (OpenCV/PyTorch), Machine Learning y sistemas inteligentes aplicados a la robótica.
-- 💡 **Filosofía**: Crear tecnología funcional, elegante e innovadora que resuelva desafíos del mundo real.
-- 💼 **LinkedIn**: [Alan Jareth Castells Montalvo](https://www.linkedin.com/in/alan-jareth-castells-montalvo-9956a31b8/)
-- 📬 **Contacto**: [montalvo210902@gmail.com](mailto:montalvo210902@gmail.com)
+- 🤖 **Enfoque**: Robótica, Automatización e IA
+- 🔬 **Explorando**: Computer Vision, ML y sistemas autónomos
+- ⚙️ **Pasión**: Donde el hardware se encuentra con el software
+- 💡 **Filosofía**: Tecnología funcional, elegante e innovadora
+- 💼 [LinkedIn](https://www.linkedin.com/in/alan-jareth-castells-montalvo-9956a31b8/)
+- 📬 montalvo210902@gmail.com
+
+</td>
+<td valign="top" width="45%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎧 Música & Video Favorito
+### 🎵 Escuchando en Spotify
 
 <div align="center">
 
-  ### 🎵 Escuchando ahora en Spotify
-
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31swmp2ken2gzh5b2s2wcjvvyi74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://open.spotify.com/user/31swmp2ken2gzh5b2s2wcjvvyi74)
-
-  <br/>
-
-  **🎵 Caroline Kingsbury — Kissing Someone Else**
-
-  <br/>
-
-  <a href="https://www.youtube.com/watch?v=EbAWUP0JpaQ" target="_blank">
-    <img src="https://img.youtube.com/vi/EbAWUP0JpaQ/maxresdefault.jpg" width="600" alt="Caroline Kingsbury - Kissing Someone Else · Click to play" />
-  </a>
-
-  <br/>
-  <sub><i>▶ Haz clic en la imagen para reproducir el video</i></sub>
 
 </div>
 
@@ -97,6 +98,4 @@ Soy un apasionado por la convergencia entre el **mundo físico y el digital**. M
 
 ---
 
-<div align="center">
-  <sub>Diseñado con dedicación y pasión por la tecnología 🚀</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
